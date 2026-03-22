@@ -28,7 +28,7 @@
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-cassandra</artifactId>
+            <artifactId>spring-boot-starter-data-neo4j</artifactId>
         </dependency>
     </dependencies>
 
